@@ -88,8 +88,12 @@ export default function Portfolio() {
               </a>
               <a href="https://www.linkedin.com/in/ashnarodjan" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-2xl border border-slate-700 px-5 py-3 font-semibold text-slate-200 hover:border-slate-400">
                 <Linkedin size={18} /> LinkedIn
+                <a href="https://calendly.com/ashnarodjan" target="_blank"
+rel="noreferrer" className="inline-flex items-center gap-2 rounded-2xl border border-slate-700 px-5 py-3 font-semibold text-slate-200 hover:border-slate-400">
+  Book a Chat
+</a>
               </a>
-              <a href="https://github.com/" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-2xl border border-slate-700 px-5 py-3 font-semibold text-slate-200 hover:border-slate-400">
+              <a href="https://github.com/ashnarodjan" target="_blank" rel="noreferrer" className="inline-flex items-center gap-2 rounded-2xl border border-slate-700 px-5 py-3 font-semibold text-slate-200 hover:border-slate-400">
                 <Github size={18} /> GitHub
               </a>
             </div>
